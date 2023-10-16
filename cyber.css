@@ -1,0 +1,42 @@
+.left{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20px;
+ }
+ .middle{
+     display: inline-block;
+     vertical-align: top;
+     margin-right: 20px;
+ }
+ .right{
+     display: inline-block;
+     vertical-align: top;
+ }
+ .photo{
+     width: 300px;
+     display: inline-block;
+     border: solid;
+     border-color: rgb(116, 245, 30);
+     border-radius: 50px;
+ }
+ .bottom{
+     margin-left: 80px;
+ }
+ .header{
+     color: rgb(55, 0, 255);
+     text-decoration: underline;
+ }
+ .servicesoffered{
+    color: rgb(247, 8, 8);
+    text-decoration: underline; 
+ }
+ .kraservices,
+ .ecitizenservices,
+ .otherservices{
+     color:  magenta; ;
+ }
+ .tryus{
+    color: blue;
+    display: inline-block;
+    font-style: italic;
+ }
